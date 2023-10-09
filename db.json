@@ -9,7 +9,12 @@
       "id": 2,
       "title": "json-server2",
       "author": "typicode2"
-
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
     }
   ],
   "comments": [
